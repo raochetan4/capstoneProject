@@ -11,11 +11,11 @@ The final project was concluded with one Shiny application and a Pitch using R-P
 
 Links to evaluate the Project:
 
-* The Milestone Project from Week two can be foun in this link:  [Milestone Project](http://rpubs.com/joseantonio/236625)
+* The Milestone Project from Week two can be foun in this link:  [Milestone Project](https://github.com/raochetan4/capstoneProject.git)
 
 * The Word Prediction App can be found on shinyapps.io:
-[Shine App](https://joseantonio.shinyapps.io/capstone-shiny-app/)
+[Shine App](https://raochetan4.shinyapps.io/nextWordPredictor/)
 
 * This pitch deck with a short presentation for the capstone application is located here: 
-[Data Science Capstone](http://rpubs.com/joseantonio/capstone-data-science)
+[Data Science Capstone](https://github.com/raochetan4/capstoneProject)
 
